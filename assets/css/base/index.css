@@ -104,6 +104,7 @@ button, input, textarea, select {
   margin-left: calc(var(--grid-gutter-x) * 0.5 * -1);
   margin-right: calc(var(--grid-gutter-x) * 0.5 * -1);
 }
+
 .row > * {
   margin-top: var(--grid-gutter-y);
 }
@@ -1114,6 +1115,6 @@ button, input, textarea, select {
   .gy-xxl-5 {
     --grid-gutter-y: 90px;
   }
-}
+} 
 
 /*# sourceMappingURL=index.css.map */
